@@ -1,0 +1,7 @@
+D:\iJunior\ex2\ex2_3_Converter\ex2_3_Converter\bin\Debug\ex2_3_Converter.exe.config
+D:\iJunior\ex2\ex2_3_Converter\ex2_3_Converter\bin\Debug\ex2_3_Converter.exe
+D:\iJunior\ex2\ex2_3_Converter\ex2_3_Converter\bin\Debug\ex2_3_Converter.pdb
+D:\iJunior\ex2\ex2_3_Converter\ex2_3_Converter\obj\Debug\ex2_3_Converter.csprojAssemblyReference.cache
+D:\iJunior\ex2\ex2_3_Converter\ex2_3_Converter\obj\Debug\ex2_3_Converter.csproj.CoreCompileInputs.cache
+D:\iJunior\ex2\ex2_3_Converter\ex2_3_Converter\obj\Debug\ex2_3_Converter.exe
+D:\iJunior\ex2\ex2_3_Converter\ex2_3_Converter\obj\Debug\ex2_3_Converter.pdb
